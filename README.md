@@ -14,4 +14,4 @@ The developer of the mobile game "Cookie Cats" conducted an A/B test to evaluate
 ### 4. **Metric Calculation:** Calculate 1-day and 7-day retention rates for both the control and test groups.
 ### 5. **Statistical Testing:** Conduct a Chi-squared test to determine if the observed difference is statistically significant.
 ### 6. **Result Visualization:** Create plots to visually compare the retention rates of the two groups.
-(Sections 4 and 5 for results will be added after the analysis is complete)
+(Sections 4 and 5 for results will be added after the analysis is complete)ё
